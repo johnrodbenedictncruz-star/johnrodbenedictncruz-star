@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **johnrodbenedictncruz-star/johnrodbenedictncruz-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm John Cruz
+
+#### **Fullstack Blockchain Developer**
+
+
+## About Me
+I love to code. Frontend, backend, blockchain. 
+
+## Tech Stack
+![My Languages](https://skillicons.dev/icons?i=solidity,rust,python,typescript,c,javascript,bash,opencv,selenium,html,css&theme=dark)
+
+## Hackathon Awards
+* 🥇 1st Place - Scaling Web3 Hackacthon, Orderly Network Bounty
+
+* 🥇 1st Place - Viction Blockchain Hackathon Gaming track
+
+* 🥇 Finalist - Vietnam Rust Web3 Hackathon
+
+<br>
